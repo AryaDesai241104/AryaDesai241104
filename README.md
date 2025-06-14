@@ -1,28 +1,132 @@
-# 💫 About Me:
-👋 Hi there, I'm Arya Desai!<br><br>🎓 Final-year BTech CSE student & passionate AI explorer  <br>🧠 I build intelligent systems that solve real-world problems  <br>💻 Python | AI | Deep Learning | Machine Learning  <br><br>🔭 I’m currently working on<br>Expanding my skills in Deep Learning and building AI-driven solutions that matter.<br><br> 👯 I’m looking to collaborate on<br>Projects involving AI, ML, GenAI, or anything creative that makes life easier with tech.<br><br>🤝 I’m looking for help with<br>Exploring meta-learning, transformers, and building models that generalize better.<br><br>🌱 I’m currently learning<br>Advanced Deep Learning, Generative AI, LLMs, and practical implementation of AI concepts.<br><br>💬 Ask me about<br>Python, AI/ML concepts, debugging tips, or how to stay calm when models break 😅<br><br>⚡ Fun fact<br>I learn faster under pressure and my brain runs better on caffeine than logic ☕
+# Hi there, I'm Arya Desai! 👋
 
-## 🌐 Socials:
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Explorer+%26+Problem+Solver;Final-year+BTech+CSE+Student;Building+Intelligent+Systems;Python+%7C+AI+%7C+Deep+Learning)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 **Final-year BTech CSE student** passionate about AI and intelligent systems  
+🧠 **AI Explorer** building solutions that solve real-world problems  
+💻 **Tech Enthusiast** specializing in Python, AI, Deep Learning & Machine Learning  
+⚡ **Fun fact:** I learn faster under pressure and my brain runs better on caffeine than logic ☕
+
+---
+
+## 🔭 What I'm Currently Working On
+
+Expanding my skills in Deep Learning and building AI-driven solutions that matter.
+
+---
+
+## 🤝 Let's Collaborate
+
+👯 I'm looking to collaborate on projects involving AI, ML, GenAI, or anything creative that makes life easier with tech.
+
+🤝 I'm looking for help with exploring meta-learning, transformers, and building models that generalize better.
+
+---
+
+## 🌱 Currently Learning
+
+Advanced Deep Learning, Generative AI, LLMs, and practical implementation of AI concepts.
+
+---
+
+## 💬 Ask Me About
+
+Python, AI/ML concepts, debugging tips, or how to stay calm when models break 😅
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-desai-709a90250)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryadesai206@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryadesai206@gmail.com)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AryaDesai241104&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AryaDesai241104&theme=cobalt&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaDesai241104&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend & Web Technologies
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🔧 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### 🛠️ Frameworks & Tools
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaDesai241104&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AryaDesai241104&theme=cobalt&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaDesai241104&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AryaDesai241104&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=AryaDesai241104&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 🐍 GitHub Activity
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AryaDesai241104&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
+---
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+## 💭 Random Dev Quote
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AryaDesai241104&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=AryaDesai241104&icon=1&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+</div>
+
+---
+
+**"The best way to predict the future is to invent it."**
+
+*Let's build something amazing together! 🚀*
+
+</div>
