@@ -23,12 +23,12 @@
 
 <div align="center">
 
-| Certification | Provider | Date | Credential |
-|---------------|----------|------|------------|
-| **AWS Academy Cloud Architecting** | Amazon Web Services | Apr 2025 | [🔗 View Certificate](https://www.credly.com/badges/3718ce1e-65bc-4612-a721-50387629e2c0/print) |
-| **AWS Academy Machine Learning Foundations** | Amazon Web Services | Nov 2024 | [🔗 View Certificate](https://www.credly.com/badges/29314b54-5929-40db-a5f2-2ff9feded775/print) |
-| **Agile Project Management Practitioner** | Coursera | Mar 2025 | [🔗 View Certificate](https://www.coursera.org/account/accomplishments/verify/6U4XGSX8EYYQ) |
-| **Complete Python Bootcamp** | Udemy | Jan 2025 | [🔗 View Certificate](https://www.udemy.com/certificate/UC-3d33b29c-3e06-4776-b29a-2b9c47c4f9ea/) |
+| Certification | Provider | Date | Certificate |
+|---------------|----------|------|-------------|
+| **AWS Academy Cloud Architecting** | Amazon Web Services | Apr 2025 | [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/3718ce1e-65bc-4612-a721-50387629e2c0/print) |
+| **AWS Academy Machine Learning Foundations** | Amazon Web Services | Nov 2024 | [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/29314b54-5929-40db-a5f2-2ff9feded775/print) |
+| **Agile Project Management Practitioner** | Coursera | Mar 2025 | [![Coursera](https://img.shields.io/badge/Coursera-%230056D3.svg?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6U4XGSX8EYYQ) |
+| **Complete Python Bootcamp** | Udemy | Jan 2025 | [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-3d33b29c-3e06-4776-b29a-2b9c47c4f9ea/) |
 
 </div>
 
@@ -39,17 +39,6 @@
 | Event | Organization | Achievement | Date |
 |-------|--------------|-------------|------|
 | **Hackspire - Hackathon** | Adani University | Mental Fitness App Development | Apr 2025 |
-
-</div>
-
-### 🎖️ Certification Badges
-
-<div align="center">
-
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/3718ce1e-65bc-4612-a721-50387629e2c0/print)
-[![AWS ML](https://img.shields.io/badge/AWS_ML-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/29314b54-5929-40db-a5f2-2ff9feded775/print)
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D3.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6U4XGSX8EYYQ)
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-3d33b29c-3e06-4776-b29a-2b9c47c4f9ea/)
 
 </div>
 
@@ -85,8 +74,8 @@ Python, AI/ML concepts, debugging tips, or how to stay calm when models break �
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-desai-709a90250)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryadesai206@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-desai-709a90250)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryadesai206@gmail.com)
 
 </div>
 
