@@ -17,6 +17,44 @@
 
 ---
 
+## 🏅 Certifications & Achievements
+
+### 🎓 Professional Certifications
+
+<div align="center">
+
+| Certification | Provider | Date | Credential |
+|---------------|----------|------|------------|
+| **AWS Academy Cloud Architecting** | Amazon Web Services | Apr 2025 | [🔗 View Certificate](https://www.credly.com/badges/3718ce1e-65bc-4612-a721-50387629e2c0/print) |
+| **AWS Academy Machine Learning Foundations** | Amazon Web Services | Nov 2024 | [🔗 View Certificate](https://www.credly.com/badges/29314b54-5929-40db-a5f2-2ff9feded775/print) |
+| **Agile Project Management Practitioner** | Coursera | Mar 2025 | [🔗 View Certificate](https://www.coursera.org/account/accomplishments/verify/6U4XGSX8EYYQ) |
+| **Complete Python Bootcamp** | Udemy | Jan 2025 | [🔗 View Certificate](https://www.udemy.com/certificate/UC-3d33b29c-3e06-4776-b29a-2b9c47c4f9ea/) |
+
+</div>
+
+### 🏆 Hackathons & Competitions
+
+<div align="center">
+
+| Event | Organization | Achievement | Date |
+|-------|--------------|-------------|------|
+| **Hackspire - Hackathon** | Adani University | Mental Fitness App Development | Apr 2025 |
+
+</div>
+
+### 🎖️ Certification Badges
+
+<div align="center">
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/3718ce1e-65bc-4612-a721-50387629e2c0/print)
+[![AWS ML](https://img.shields.io/badge/AWS_ML-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/29314b54-5929-40db-a5f2-2ff9feded775/print)
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D3.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6U4XGSX8EYYQ)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-3d33b29c-3e06-4776-b29a-2b9c47c4f9ea/)
+
+</div>
+
+---
+
 ## 🔭 What I'm Currently Working On
 
 Expanding my skills in Deep Learning and building AI-driven solutions that matter.
@@ -57,13 +95,13 @@ Python, AI/ML concepts, debugging tips, or how to stay calm when models break �
 ## 💻 Tech Stack
 
 ### 🎨 Frontend & Web Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 🔧 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
