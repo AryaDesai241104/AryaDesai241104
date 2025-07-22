@@ -25,11 +25,11 @@
 
 | Certification | Provider | Date | Certificate |
 |---------------|----------|------|-------------|
+| **Machine Learning A-Z** | Udemy | Jul 2025 | [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-12eb8d94-4c0c-401d-a9f2-621f06b7268f/) |
 | **AWS Academy Cloud Architecting** | Amazon Web Services | Apr 2025 | [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/3718ce1e-65bc-4612-a721-50387629e2c0/print) |
 | **AWS Academy Machine Learning Foundations** | Amazon Web Services | Nov 2024 | [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/29314b54-5929-40db-a5f2-2ff9feded775/print) |
 | **Agile Project Management Practitioner** | Coursera | Mar 2025 | [![Coursera](https://img.shields.io/badge/Coursera-%230056D3.svg?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6U4XGSX8EYYQ) |
 | **Complete Python Bootcamp** | Udemy | Jan 2025 | [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-3d33b29c-3e06-4776-b29a-2b9c47c4f9ea/) |
-| **Machine Learning A-Z** | Udemy | Jan 2025 | [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-12eb8d94-4c0c-401d-a9f2-621f06b7268f/) |
 
 </div>
 
